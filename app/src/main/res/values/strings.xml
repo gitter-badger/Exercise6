@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise 6</string>
+    <string name="def_url">https://www.reddit.com</string>
+    <string name="no_posts">There are no posts at the moment</string>
+</resources>
